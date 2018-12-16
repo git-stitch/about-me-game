@@ -1,13 +1,13 @@
-console.log('We here');
+// console.log('We here');
 
-let express = require('express');
+// let express = require('express');
 
-let app = express();
+// let app = express();
 
-server = app.listen(3000, listening);
+// server = app.listen(3000, listening);
 
-function listening() {
-	console.log('listening ....');
-}
+// function listening() {
+// 	console.log('listening ....');
+// }
 
-app.use(express.static('public'));
+// app.use(express.static('public'));
