@@ -1,0 +1,14 @@
+{ "columns":29,
+ "image":"sprite sheets\/Magic-Cliffs-Environment\/PNG\/tileset.png",
+ "imageheight":320,
+ "imagewidth":928,
+ "margin":0,
+ "name":"magicForest",
+ "spacing":0,
+ "tilecount":290,
+ "tiledversion":"1.2.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.2
+}
