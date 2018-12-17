@@ -10,5 +10,4 @@ server = app.listen(PORT, listening);
 function listening() {
 	console.log('listening ....');
 }
-
 app.use(express.static('public'));
